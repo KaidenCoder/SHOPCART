@@ -34,7 +34,7 @@ This project has been done for the practice of developing skills in the MERN sta
 
 ## My process
 
-First, I made the Front end in React JS, where I fetch a list of products from a JSON file. Then I made Backend in NodeJs where I database Scheme in Mongodb for the products lists, users list. Then I import the JSON product list to MongoDB. I made routes for each page by connecting to MongoDB, where the CRUD functionality is implemented. Redux replaces the overall structure of the ReactJS. The process is overall repeated again and again to make all the new pages. Paypal Sandbox integration is also implemented.
+First, I made the Front end in React JS, where I fetch a list of products from a JSON file. Then I made Backend in NodeJs. First, I made the database Scheme in Mongodb for the products lists, users list. Then I import the JSON product list to MongoDB. I made routes for each page by connecting to MongoDB, where the CRUD functionality is implemented. Redux replaces the overall structure of the ReactJS. The process is overall repeated again and again to make all the new pages. Paypal Sandbox integration is also implemented.
 
 ### Built with
 
